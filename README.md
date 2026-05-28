@@ -3,7 +3,7 @@
 Bootcamp persiapan dan akselerasi untuk **Tazkia**, mahasiswi baru **Fakultas Ilmu Komputer Universitas Indonesia**. Tujuannya: mempercepat pemahaman fondasi computer science sebelum & selama semester awal, lalu menutup dengan pengantar AI/Machine Learning.
 
 > Kurikulum ini mengadaptasi **CS50 Harvard**, tapi dengan dua penyesuaian:
-> 1. **Python-first** sebagai bahasa utama (bukan C), supaya mulus menuju dunia AI.
+> 1. **Python-first** sebagai bahasa utama supaya mulus menuju dunia AI — dengan satu *detour* ke **C** di Minggu 05 untuk memahami memori & low-level (mental model khas CS50 yang penting untuk kuliah formal di Fasilkom).
 > 2. **Berujung ke AI** — fondasi CS dibangun kuat dulu, baru AI/ML dikenalkan sebagai capstone.
 
 ---
@@ -23,7 +23,7 @@ Setelah menyelesaikan bootcamp ini, Tazkia diharapkan mampu:
 
 ## Filosofi Belajar
 
-- **Pelan tapi dalam.** Ritme 12–15 minggu, ~8–12 jam/minggu. Lebih baik paham daripada cepat.
+- **Pelan tapi dalam.** Ritme ~14–16 minggu, ~8–12 jam/minggu. Lebih baik paham daripada cepat.
 - **Belajar dengan membuat.** Setiap minggu ada lab + mini-project. Teori untuk dipakai, bukan dihafal.
 - **Gagal itu bagian dari proses.** Debugging adalah skill inti, bukan tanda gagal.
 - **AI sebagai tutor, bukan tukang contek.** Boleh tanya AI untuk menjelaskan konsep & membantu debug, tapi setiap latihan inti harus bisa ditulis ulang tanpa bantuan.
@@ -39,16 +39,17 @@ Setelah menyelesaikan bootcamp ini, Tazkia diharapkan mampu:
 | **02** | [Kontrol Alur](curriculum/week-02-control-flow.md) | Week 1–2 | Kondisional, perulangan, logika boolean |
 | **03** | [Fungsi & Abstraksi](curriculum/week-03-functions.md) | Week 1 | Fungsi, scope, dekomposisi masalah |
 | **04** | [Algoritma & Big O](curriculum/week-04-algorithms.md) | Week 3 | Searching, sorting, kompleksitas, rekursi |
-| **05** | [Struktur Data](curriculum/week-05-data-structures.md) | Week 4–5 | List, tuple, dict, set, memori & referensi |
-| **06** | [String & Teks](curriculum/week-06-strings.md) | Week 2 | Manipulasi string, regex, encoding |
-| **07** | [OOP](curriculum/week-07-oop.md) | Week 6 (Python) | Class, object, inheritance, encapsulation |
-| **08** | [File, Error & Format Data](curriculum/week-08-files-and-errors.md) | Week 6 | File I/O, exception, CSV/JSON |
-| **09** | [SQL & Database](curriculum/week-09-sql.md) | Week 7 | Relasi, query, CRUD, normalisasi |
-| **10** | [Web & API](curriculum/week-10-web.md) | Week 8–9 | HTML/CSS/JS, Flask, REST API |
-| **11** | [Toolkit Data Science](curriculum/week-11-data-science.md) | — (jembatan ke AI) | NumPy, Pandas, visualisasi |
-| **12** | [Pengantar Machine Learning](curriculum/week-12-machine-learning.md) | — | Supervised learning, scikit-learn |
-| **13** | [AI Modern & LLM](curriculum/week-13-modern-ai.md) | — | Neural net (intuisi), pakai API LLM |
-| **14** | [Capstone Project](curriculum/week-14-capstone.md) | Final Project | Proyek akhir end-to-end |
+| **05** | [Memory & Low-Level (C)](curriculum/week-05-memory-low-level.md) | Week 4 | Pointer, array, stack/heap, linked list di C |
+| **06** | [Struktur Data](curriculum/week-06-data-structures.md) | Week 5 | List, tuple, dict, set, hash table |
+| **07** | [String & Teks](curriculum/week-07-strings.md) | Week 2 | Manipulasi string, regex, encoding |
+| **08** | [OOP](curriculum/week-08-oop.md) | Week 6 (Python) | Class, object, inheritance, encapsulation |
+| **09** | [File, Error & Format Data](curriculum/week-09-files-and-errors.md) | Week 6 | File I/O, exception, CSV/JSON |
+| **10** | [SQL & Database](curriculum/week-10-sql.md) | Week 7 | Relasi, query, CRUD, normalisasi |
+| **11** | [Web & API](curriculum/week-11-web.md) | Week 8–9 | HTML/CSS/JS, Flask, REST API |
+| **12** | [Toolkit Data Science](curriculum/week-12-data-science.md) | — (jembatan ke AI) | NumPy, Pandas, visualisasi |
+| **13** | [Pengantar Machine Learning](curriculum/week-13-machine-learning.md) | — | Supervised learning, scikit-learn |
+| **14** | [AI Modern & LLM](curriculum/week-14-modern-ai.md) | — | Neural net (intuisi), pakai API LLM |
+| **15** | [Capstone Project](curriculum/week-15-capstone.md) | Final Project | Proyek akhir end-to-end |
 
 ---
 

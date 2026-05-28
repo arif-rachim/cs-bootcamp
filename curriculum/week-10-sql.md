@@ -1,4 +1,4 @@
-# Minggu 09 — SQL & Database
+# Minggu 10 — SQL & Database
 
 > **Padanan CS50:** Week 7 (SQL). Cara menyimpan & mengambil data dalam skala besar secara terstruktur.
 
@@ -24,8 +24,8 @@
 3. JOIN tabel `buku` & `penulis`, tampilkan judul + nama penulis.
 
 ## Problem Set
-- **PSet 9a:** Desain skema database sekolah (mahasiswa, mata kuliah, nilai) + 5 query analitik.
-- **PSet 9b:** Akses database dari Python dengan query **berparameter** (aman dari injection).
+- **PSet 10a:** Desain skema database sekolah (mahasiswa, mata kuliah, nilai) + 5 query analitik.
+- **PSet 10b:** Akses database dari Python dengan query **berparameter** (aman dari injection).
 
 ## Mini-Project
 **"Database Film"** — impor data film dari CSV ke SQLite, lalu buat antarmuka pencarian sederhana (cari per genre/tahun/rating).

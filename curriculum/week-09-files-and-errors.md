@@ -1,4 +1,4 @@
-# Minggu 08 — File, Error & Format Data
+# Minggu 09 — File, Error & Format Data
 
 > **Padanan CS50:** Week 6 (Python — File I/O). Program nyata harus membaca/menyimpan data dan menangani kesalahan dengan anggun.
 
@@ -22,8 +22,8 @@
 3. Tambahkan `try/except` pada program yang membaca file (tangani file tidak ada).
 
 ## Problem Set
-- **PSet 8a:** "Phonebook persisten" — buku kontak yang menyimpan data ke file JSON antar sesi.
-- **PSet 8b:** Pembaca CSV yang tangguh: lewati baris rusak tanpa crash, laporkan jumlah baris gagal.
+- **PSet 9a:** "Phonebook persisten" — buku kontak yang menyimpan data ke file JSON antar sesi.
+- **PSet 9b:** Pembaca CSV yang tangguh: lewati baris rusak tanpa crash, laporkan jumlah baris gagal.
 
 ## Mini-Project
 **"To-Do List CLI"** — aplikasi command-line untuk mengelola tugas (tambah/selesai/hapus) dengan penyimpanan persisten ke file JSON.

@@ -1,6 +1,6 @@
-# Minggu 05 — Struktur Data
+# Minggu 06 — Struktur Data
 
-> **Padanan CS50:** Week 4–5 (Memory & Data Structures). Di CS50 ini soal pointer di C; kita adaptasi ke **model memori & referensi Python** plus struktur data bawaan.
+> **Padanan CS50:** Week 5 (Data Structures). Lanjutan langsung dari Minggu 05: setelah paham pointer & memori di C, kita lihat bagaimana **Python menyembunyikan semua itu** lewat struktur data bawaan, dan kapan memilih masing-masing.
 
 ## Tujuan Pembelajaran
 - Menguasai struktur data inti Python: **list, tuple, dict, set**.
@@ -22,14 +22,14 @@
 3. Demo aliasing: tunjukkan kenapa `b = a` pada list bisa "mengubah" `a`.
 
 ## Problem Set
-- **PSet 5a:** Buku alamat sederhana berbasis `dict` (tambah, cari, hapus kontak).
-- **PSet 5b:** Implementasi `Stack` dan `Queue` memakai list, lengkap dengan operasi dasar.
+- **PSet 6a:** Buku alamat sederhana berbasis `dict` (tambah, cari, hapus kontak).
+- **PSet 6b:** Implementasi `Stack` dan `Queue` memakai list, lalu bandingkan dengan linked list versi C dari Minggu 05.
 
 ## Mini-Project
 **"Inventaris Toko"** — kelola stok barang dengan dict (nama → jumlah & harga), dukung tambah/kurang stok dan laporan total nilai inventaris.
 
 ## Sumber Belajar
-- CS50 Lecture 4–5 (Memory, Data Structures): https://cs50.harvard.edu/x/weeks/5/
+- CS50 Lecture 5 (Data Structures): https://cs50.harvard.edu/x/weeks/5/
 - Python Docs — Data Structures: https://docs.python.org/3/tutorial/datastructures.html
 
 ## Checklist Siap Lanjut

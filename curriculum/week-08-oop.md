@@ -1,4 +1,4 @@
-# Minggu 07 — Pemrograman Berorientasi Objek (OOP)
+# Minggu 08 — Pemrograman Berorientasi Objek (OOP)
 
 > **Padanan CS50:** Week 6 (Python / OOP). Cara memodelkan dunia nyata dalam kode — penting untuk proyek besar & framework AI nanti.
 
@@ -23,8 +23,8 @@
 3. Inheritance: `Hewan` → `Kucing`, `Anjing` dengan method `bersuara()` berbeda.
 
 ## Problem Set
-- **PSet 7a:** Sistem `RekeningBank` dengan setor, tarik, dan validasi saldo.
-- **PSet 7b:** `Deck` kartu remi: class `Kartu` & `Deck` dengan method shuffle & deal.
+- **PSet 8a:** Sistem `RekeningBank` dengan setor, tarik, dan validasi saldo.
+- **PSet 8b:** `Deck` kartu remi: class `Kartu` & `Deck` dengan method shuffle & deal.
 
 ## Mini-Project
 **"Manajemen Perpustakaan"** — class `Buku`, `Anggota`, `Perpustakaan` dengan fitur pinjam/kembali dan laporan buku tersedia.

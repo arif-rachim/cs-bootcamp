@@ -1,4 +1,4 @@
-# Minggu 06 — String & Pemrosesan Teks
+# Minggu 07 — String & Pemrosesan Teks
 
 > **Padanan CS50:** Week 2 (Arrays/Strings). String adalah data yang paling sering kita olah — fondasi penting menuju data & NLP.
 
@@ -22,8 +22,8 @@
 3. Validasi format email/nomor HP sederhana dengan regex.
 
 ## Problem Set
-- **PSet 6a:** Palindrom checker yang mengabaikan spasi & kapitalisasi.
-- **PSet 6b:** "Readability score" — perkirakan tingkat keterbacaan teks (ala CS50 "Readability").
+- **PSet 7a:** Palindrom checker yang mengabaikan spasi & kapitalisasi.
+- **PSet 7b:** "Readability score" — perkirakan tingkat keterbacaan teks (ala CS50 "Readability").
 
 ## Mini-Project
 **"Analisis Teks"** — input sebuah artikel, keluarkan statistik: jumlah kata, kata terpanjang, 5 kata paling sering muncul.

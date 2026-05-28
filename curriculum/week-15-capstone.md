@@ -1,4 +1,4 @@
-# Minggu 14 — Capstone Project
+# Minggu 15 — Capstone Project
 
 > **Padanan CS50:** Final Project. Saatnya menyatukan semua yang dipelajari menjadi satu proyek utuh yang Tazkia banggakan.
 

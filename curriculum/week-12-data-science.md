@@ -1,4 +1,4 @@
-# Minggu 11 — Toolkit Data Science
+# Minggu 12 — Toolkit Data Science
 
 > **Jembatan menuju AI.** Sebelum machine learning, Tazkia perlu nyaman mengolah & memvisualisasikan data — bahan baku semua model AI.
 
@@ -22,8 +22,8 @@
 3. Matplotlib: buat 3 jenis grafik dari dataset tersebut.
 
 ## Problem Set
-- **PSet 11a:** EDA lengkap satu dataset: ringkasan statistik, tangani missing value, 3 insight + grafik.
-- **PSet 11b:** Pakai `groupby` untuk menjawab 5 pertanyaan analitik dari dataset.
+- **PSet 12a:** EDA lengkap satu dataset: ringkasan statistik, tangani missing value, 3 insight + grafik.
+- **PSet 12b:** Pakai `groupby` untuk menjawab 5 pertanyaan analitik dari dataset.
 
 ## Mini-Project
 **"Dashboard Data"** — pilih dataset yang menarik bagi Tazkia, lakukan EDA, dan sajikan temuan dalam notebook yang rapi dengan visualisasi & narasi.

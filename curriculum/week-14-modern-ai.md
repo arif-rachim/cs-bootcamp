@@ -1,4 +1,4 @@
-# Minggu 13 — AI Modern & LLM
+# Minggu 14 — AI Modern & LLM
 
 > **Puncak jalur AI.** Mengenal intuisi neural network dan cara membangun aplikasi nyata di atas **Large Language Model (LLM)** seperti Claude.
 
@@ -22,8 +22,8 @@
 3. Bandingkan beberapa prompt untuk tugas yang sama, amati perbedaan kualitas jawaban.
 
 ## Problem Set
-- **PSet 13a:** Bangun chatbot CLI sederhana di atas API LLM dengan "kepribadian" tertentu.
-- **PSet 13b:** Tulis esai singkat: kapan memakai ML klasik vs LLM, dan apa risiko etis tiap pendekatan.
+- **PSet 14a:** Bangun chatbot CLI sederhana di atas API LLM dengan "kepribadian" tertentu.
+- **PSet 14b:** Tulis esai singkat: kapan memakai ML klasik vs LLM, dan apa risiko etis tiap pendekatan.
 
 ## Mini-Project
 **"Asisten Belajar AI"** — aplikasi (CLI atau Flask) yang memakai LLM untuk membantu meringkas materi kuliah atau membuat soal latihan, dengan prompt yang dirancang rapi.

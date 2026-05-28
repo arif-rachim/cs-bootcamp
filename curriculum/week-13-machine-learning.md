@@ -1,4 +1,4 @@
-# Minggu 12 — Pengantar Machine Learning
+# Minggu 13 — Pengantar Machine Learning
 
 > **Mulai masuk AI.** Setelah fondasi CS & data kuat, kita kenalkan konsep inti machine learning secara praktis dengan **scikit-learn**.
 
@@ -23,8 +23,8 @@
 3. Eksperimen: ubah ukuran train/test, amati efeknya pada akurasi.
 
 ## Problem Set
-- **PSet 12a:** Bangun pipeline klasifikasi lengkap pada dataset pilihan (load → split → train → evaluate).
-- **PSet 12b:** Tulis refleksi: di mana modelmu salah, kenapa, dan bagaimana memperbaikinya.
+- **PSet 13a:** Bangun pipeline klasifikasi lengkap pada dataset pilihan (load → split → train → evaluate).
+- **PSet 13b:** Tulis refleksi: di mana modelmu salah, kenapa, dan bagaimana memperbaikinya.
 
 ## Mini-Project
 **"Prediktor Sederhana"** — pilih masalah klasifikasi/regresi yang relevan (mis. prediksi kelulusan dari jam belajar), latih model, dan laporkan performanya secara jujur.

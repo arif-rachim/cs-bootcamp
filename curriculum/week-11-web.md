@@ -1,4 +1,4 @@
-# Minggu 10 — Web & API
+# Minggu 11 — Web & API
 
 > **Padanan CS50:** Week 8–9 (HTML/CSS/JS & Flask). Membawa program ke internet — fondasi penting untuk men-deploy aplikasi AI nanti.
 
@@ -22,11 +22,11 @@
 3. Konsumsi API publik (mis. cuaca) dengan `requests`, tampilkan hasilnya.
 
 ## Problem Set
-- **PSet 10a:** Form Flask: terima input pengguna, validasi, simpan ke database SQLite (gabungan Minggu 09).
-- **PSet 10b:** Buat REST API kecil (`/api/buku`) yang mengembalikan data JSON dari database.
+- **PSet 11a:** Form Flask: terima input pengguna, validasi, simpan ke database SQLite (gabungan Minggu 10).
+- **PSet 11b:** Buat REST API kecil (`/api/buku`) yang mengembalikan data JSON dari database.
 
 ## Mini-Project
-**"Aplikasi Web To-Do"** — versi web dari to-do list (Minggu 08) memakai Flask + SQLite, dengan tambah/selesai/hapus tugas via browser.
+**"Aplikasi Web To-Do"** — versi web dari to-do list (Minggu 09) memakai Flask + SQLite, dengan tambah/selesai/hapus tugas via browser.
 
 ## Sumber Belajar
 - CS50 Lecture 8–9 (HTML/CSS/JS, Flask): https://cs50.harvard.edu/x/weeks/9/
